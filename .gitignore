@@ -1,6 +1,9 @@
 # Intellij system files
 .idea/
 *.iml
+*.iws
+*.ipr
+
 # Compiled class file
 *.class
 
